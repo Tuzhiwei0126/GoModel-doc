@@ -14,6 +14,6 @@
 ## 5. 检查 更改 进行 git 提交 推送就好了
 
 
-## 6. 等待几分钟可以在 https://aether-doc.vercel.app/ 看到效果
+## 6. 等待几分钟可以在 https://go-model-doc.vercel.app/ 看到效果
 
 
