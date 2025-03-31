@@ -10,7 +10,7 @@
 
 ###### 123123123123123123
 
-<img src="/image/Group.png" alt="20250207_BEE646_600x800" style="zoom:50%;" />
+<!-- <img src="/image/Group.png" alt="20250207_BEE646_600x800" style="zoom:50%;" /> -->
 <!-- ![20250207_BEE646_600x800](/Users/nayuta/projects/img-generator/20250207_BEE646_600x800.png) -->
 
 <!-- <img src="/Users/nayuta/projects/img-generator/20250207_E6A91D_600x800.png" alt="20250207_E6A91D_600x800" style="zoom:50%;" />
