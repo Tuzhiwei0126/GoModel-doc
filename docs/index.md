@@ -7,9 +7,6 @@ hero:
   tagline: 文档中心
   actions:
     - theme: brand
-      text: 前端文档
+      text: 使用手册文档
       link: /web/index.md
-    - theme: alt
-      text: 后端文档
-      link: /server/index.md
 
