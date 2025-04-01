@@ -9,7 +9,7 @@
 在开始节点的设置页，你可以看到两部分设置，分别是 **“输入字段”** 和预设的[**系统变量**](../variables.md#xi-tong-bian-liang)。
 
 <figure>
-  <img src="../../../../en/.gitbook/assets/image.png" alt="这里需要一张展示Chatflow和Workflow的图片">
+  <img src="../../../public/Group.png" alt="这里需要一张展示Chatflow和Workflow的图片">
   <figcaption><p>Chatflow 和 Workflow</p></figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ GoModel 内置的文档提取器节点只能够处理部分格式的文档文件
 配置完成后，用户在使用应用前将按照输入项指引，向 GoModel 提供必要信息。更多的信息将有助于 GoModel 提升问答效率。
 
 <figure>
-  <img src="../../../.gitbook/assets/image (4) (1).png" alt="这里需要一张特定配置完成后的展示图片">
+  <img src="../../../public/Group.png" alt="这里需要一张特定配置完成后的展示图片">
   <figcaption>这里需要一张展示配置完成后相关内容的图片</figcaption>
 </figure>
 

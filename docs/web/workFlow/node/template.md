@@ -30,7 +30,7 @@
 ```
 
 <figure>
-<img src="path/to/image209.png" alt="文本拼接示例" width="375">
+<img src="../../../public/Group.png" alt="文本拼接示例" width="375">
 <figcaption>展示多字段文本拼接效果的界面截图</figcaption>
 </figure>
 ```
@@ -55,7 +55,7 @@
 ```
 
 <figure>
-<img src="path/to/image210.png" alt="知识库转换示例">
+<img src="../../../public/Group.png" alt="知识库转换示例">
 <figcaption>展示知识数据转换效果的界面截图</figcaption>
 </figure>
 

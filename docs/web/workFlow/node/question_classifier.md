@@ -17,7 +17,7 @@
 
 **工作流示意图：**
 <!-- 这里有图片 -->
-<figure><img src="../../../.gitbook/assets/image (80).png" alt="工作流程图"><figcaption>问题分类工作流程示意图</figcaption></figure>
+<figure><img src="../../../public/Group.png" alt="工作流程图"><figcaption>问题分类工作流程示意图</figcaption></figure>
 
 **预设分类示例：**
 1. **售后相关问题**：处理保修、退换货等咨询
@@ -32,7 +32,7 @@
 ## 配置说明
 
 <!-- 这里有图片 -->
-<figure><img src="../../../.gitbook/assets/image (81).png" alt="配置界面"><figcaption>问题分类配置界面</figcaption></figure>
+<figure><img src="../../../public/Group.png" alt="配置界面"><figcaption>问题分类配置界面</figcaption></figure>
 
 ### 基础配置步骤
 

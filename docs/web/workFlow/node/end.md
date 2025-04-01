@@ -19,13 +19,13 @@
 在[长文本迭代生成工作流](iteration.md#示例2-长文本迭代生成器)中，结束节点配置的输出变量`Output`将引用上游代码节点(Code3)的执行结果。这意味着该工作流会在Code3节点运行完毕后终止，并返回Code3节点的处理结果。
 
 **图片位置：长文本生成示例图**
-<figure><img src="../../../.gitbook/assets/image (284).png" alt=""><figcaption><p>结束节点-长故事生成示例</p></figcaption></figure>
+<figure><img src="../../../public/Group.png" alt=""><figcaption><p>结束节点-长故事生成示例</p></figcaption></figure>
 
 ### 单路径执行示例：
 **图片位置：单路径输出示例图**
 
-<figure><img src="../../../.gitbook/assets/output (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../public/Group.png" alt=""><figcaption></figcaption></figure>
 
 ### 多分支执行示例：
 **图片位置：多分支输出示例图**
-<figure><img src="../../../.gitbook/assets/output (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../public/Group.png" alt=""><figcaption></figcaption></figure>
