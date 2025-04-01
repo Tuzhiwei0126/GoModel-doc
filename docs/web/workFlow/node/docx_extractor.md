@@ -18,7 +18,7 @@
 ## 节点结构
 
 **图片位置：节点结构示意图**
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>文档提取器节点架构</p></figcaption></figure>
+<figure><img src="../../../public/Group.png" alt=""><figcaption><p>文档提取器节点架构</p></figcaption></figure>
 
 ### 输入配置
 | 输入类型       | 说明                  | 典型应用场景      |
@@ -38,7 +38,7 @@
 ## 实战案例：构建ChatPDF应用
 
 **图片位置：完整工作流图示**
-<figure><img src="../../../.gitbook/assets/image (373).png" alt=""><figcaption><p>ChatPDF应用流程图</p></figcaption></figure>
+<figure><img src="../../../public/Group.png" alt=""><figcaption><p>ChatPDF应用流程图</p></figcaption></figure>
 
 ### 配置步骤
 1. **启用文件上传功能**  
@@ -51,12 +51,12 @@
    在系统提示词中引用提取的文本内容
 
    **图片位置：变量引用示例**
-   <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>变量连接示意图</p></figcaption></figure>
+   <figure><img src="../../../public/Group.png" alt=""><figcaption><p>变量连接示意图</p></figcaption></figure>
 
 4. **设置输出节点**  
    将LLM的回复内容设为最终输出
 
 **图片位置：运行效果展示**
-<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>实际交互效果</p></figcaption></figure>
+<figure><img src="../../../public/Group.png" alt=""><figcaption><p>实际交互效果</p></figcaption></figure>
 
 提示：更多文件交互功能请参考[附加功能](../additional-features.md)

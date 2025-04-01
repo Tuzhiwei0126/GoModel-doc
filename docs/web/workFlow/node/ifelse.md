@@ -27,7 +27,7 @@
 ## 应用场景
 
 <!-- 这里有图片 -->
-<figure><img src="../../../.gitbook/assets/zh-if-else-elif.png" alt="条件分支示例"><figcaption>文本总结工作流中的条件分支应用</figcaption></figure>
+<figure><img src="../../../public/Group.png" alt="条件分支示例"><figcaption>文本总结工作流中的条件分支应用</figcaption></figure>
 
 ### 场景示例：智能文本总结
 
@@ -50,7 +50,7 @@
 支持通过AND/OR连接多个条件，实现复杂逻辑判断：
 
 <!-- 这里有图片 -->
-<figure><img src="../../../.gitbook/assets/image (73).png" alt="多重条件" width="369"><figcaption>多重条件判断设置界面</figcaption></figure>
+<figure><img src="../../../public/Group.png" alt="多重条件" width="369"><figcaption>多重条件判断设置界面</figcaption></figure>
 
 - **AND**：需同时满足所有条件（交集）
 - **OR**：只需满足任一条件（并集）

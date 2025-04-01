@@ -15,7 +15,7 @@
 2. 匹配用户问题最相关的文本内容并召回
 3. 将用户问题与检索到的上下文一同作为 LLM 输入
 
-    <figure><img src="../../../.gitbook/assets/GoModel-retrieval-flow.png" alt=""><figcaption><p>知识库问答应用流程</p></figcaption></figure>
+    <figure><img src="../../../public/Group.png" alt=""><figcaption><p>知识库问答应用流程</p></figcaption></figure>
 
 ***
 
@@ -45,7 +45,7 @@
 
 **输出变量**
 
-<figure><img src="../../../.gitbook/assets/GoModel-output-variables.png" alt="" width="300"><figcaption><p>输出变量结构</p></figcaption></figure>
+<figure><img src="../../../public/Group.png" alt="" width="300"><figcaption><p>输出变量结构</p></figcaption></figure>
 
 输出变量 `result` 包含以下字段：
 - `content`: 文本分段内容

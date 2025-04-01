@@ -14,19 +14,19 @@
 **示例1：** 输出纯文本
 
 <figure>
-  <img src="../../../path/to/output_example.png" alt="这里需要一张输出纯文本示例的图片">
+  <img src="../../../public/Group.png" alt="这里需要一张输出纯文本示例的图片">
   <figcaption>这里需要一张展示输出纯文本示例的图片</figcaption>
 </figure>
 
 **示例2：** 输出图片+LLM回复
 
 <figure>
-  <img src="../../../path/to/image_llm_example.png" alt="这里需要一张输出图片和LLM回复示例的图片">
+  <img src="../../../public/Group.png" alt="这里需要一张输出图片和LLM回复示例的图片">
   <figcaption>这里需要一张展示输出图片和LLM回复示例的图片</figcaption>
 </figure>
 
 <figure>
-  <img src="../../../path/to/image_llm_example_2.png" alt="这里需要一张输出图片和LLM回复的另一示例图片" width="275">
+  <img src="../../../public/Group.png" alt="这里需要一张输出图片和LLM回复的另一示例图片" width="275">
   <figcaption>这里需要一张展示输出图片和LLM回复的另一示例图片，宽度为275px</figcaption>
 </figure>
 
