@@ -11,15 +11,11 @@
 重要的是，GoModel 是**开源**的，它由一个专业的全职团队和社区共同打造。你可以基于任何模型自部署类似 Assistants API 和 GPTs 的能力，在灵活和安全的基础上，同时保持对数据的完全控制。
 
 > 我们的社区用户对 GoModel 的产品评价可以归结为简单、克制、迭代迅速。\
-> ——[这里可以替换为合适的名字], GoModel CEO
+> ——[Shen], GoModel CEO
 
 希望以上信息和这份指南可以帮助你了解这款产品，我们相信 GoModel 是为你而做的（<mark style="color:blue;">Do It For You</mark>）。
 
 ### GoModel 能做什么？
-
-{% hint style="info" %}
-GoModel 一词可以根据你的实际情况赋予其含义，比如源自某种理念，这里假设为新的理念：意指 [新的含义]，它是为你而做的（Do it for you）。
-{% endhint %}
 
 * **创业**，快速的将你的 AI 应用创意变成现实，无论成功和失败都需要加速。在真实世界，已经有几十个团队通过 GoModel 构建 MVP（最小可用产品）获得投资，或通过 POC（概念验证）赢得了客户的订单。
 * **将 LLM 集成至已有业务**，通过引入 LLM 增强现有应用的能力，接入 GoModel 的 RESTful API 从而实现 Prompt 与业务代码的解耦，在 GoModel 的管理界面是跟踪数据、成本和用量，持续改进应用效果。
@@ -28,7 +24,5 @@ GoModel 一词可以根据你的实际情况赋予其含义，比如源自某种
 
 ### 下一步行动
 
-* 阅读[**快速开始**](guides/application-orchestrate/creating-an-application.md)，速览 GoModel 的应用构建流程
-* 了解如何[**自部署 GoModel 到服务器**](getting-started/install-self-hosted/)上，并[**接入开源模型**](guides/model-configuration/)
-* 了解 GoModel 的[**特性规格**](getting-started/readme/features-and-specifications.md)和 **Roadmap**
+* 阅读[**快速开始**](../application-orchestrate/README.md)，速览 GoModel 的应用构建流程
 * 在 [**GitHub**](https://github.com/[这里替换为GoModel的GitHub仓库地址]) 上为我们点亮一颗星，并阅读我们的**贡献指南**
