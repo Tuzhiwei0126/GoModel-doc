@@ -24,6 +24,9 @@
 7. 为空(Is empty)
 8. 不为空(Is not empty)
 
+
+![实验配置](../../../public/iflese1.png)
+
 ## 最佳实践建议
 
 1. 优先处理最可能发生的条件
