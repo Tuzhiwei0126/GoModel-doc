@@ -1,6 +1,6 @@
 # 1.2 从网页导入数据
 
-GoModel 知识库支持借助第三方工具，如 [Jina Reader](https://jina.ai/reader) 和 [Firecrawl](https://www.firecrawl.dev/)，抓取公开网页内容，解析为 Markdown 格式后导入知识库。
+GoAgent 知识库支持借助第三方工具，如 [Jina Reader](https://jina.ai/reader) 和 [Firecrawl](https://www.firecrawl.dev/)，抓取公开网页内容，解析为 Markdown 格式后导入知识库。
 
 > Jina Reader 和 Firecrawl 均为开源网页解析工具，能将网页内容转换为简洁且便于大语言模型（LLM）识别的 Markdown 文本，同时提供易用的 API 服务。
 
