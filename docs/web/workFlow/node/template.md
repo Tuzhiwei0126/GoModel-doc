@@ -17,48 +17,6 @@
 模板转换节点允许你借助 Jinja2 这一强大的 Python 模板语言，在工作流内实现轻量、灵活的数据转换，适用于文本处理、JSON 转换等情景。例如灵活地格式化并合并来自前面步骤的变量，创建出单一的文本输出。这非常适合于将多个数据源的信息汇总成一个特定格式，满足后续步骤的需求。
 ```
 
-### 示例1：多文本拼接
-```
-将多个输入（文章标题、介绍、内容）拼接为完整文本
-
-```jinja
-{{ 文章标题 }}
-
-{{ 文章介绍 }}
-
-{{ 文章内容 }}
-```
-
-<figure>
-<img src="../../../public/Group.png" alt="文本拼接示例" width="375">
-<figcaption>展示多字段文本拼接效果的界面截图</figcaption>
-</figure>
-```
-
-### 示例2：知识库数据转换
-将知识检索节点获取的信息及其相关的元数据，整理成结构化的 Markdown 格式
-
-```jinja
-{% raw %}
-{% for item in chunks %}
-### Chunk {{ loop.index }} 
-相似度: {{ item.metadata.score | default('N/A') }}
-
-#### {{ item.title }}
-
-##### 内容
-{{ item.content | replace('\n', '\n\n') }}
-
----
-{% endfor %}
-{% endraw %}
-```
-
-<figure>
-<img src="../../../public/Group.png" alt="知识库转换示例">
-<figcaption>展示知识数据转换效果的界面截图</figcaption>
-</figure>
-
 ## 高级功能
 ### 模板继承
 ```jinja
