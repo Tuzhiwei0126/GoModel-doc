@@ -8,5 +8,5 @@ hero:
   actions:
     - theme: brand
       text: 使用手册文档
-      link: /web/index.md
+      link: /web/get_started/welcome.md
 
