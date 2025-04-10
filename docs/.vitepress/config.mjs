@@ -25,15 +25,15 @@ export default defineConfig({
                             text: "知识库", link: "/web/knowledge-base/README.md", items: [
                                 {
                                     text: "创建知识库",
-                                    link: "/web/knowledge-base/create-knowledge-base-and-upload-documents/README.md"
+                                    link: "/web/knowledge-base/create-knowledge-and-upload-documents/README.md"
                                 },
                                 {
                                     text: "分块和清理",
-                                    link: "/web/knowledge-base/create-knowledge-base-and-upload-documents/chunking-and-cleaning-text.md"
+                                    link: "/web/knowledge-base/create-knowledge-and-upload-documents/chunking-and-cleaning-text.md"
                                 },
                                 {
                                     text: "设置索引",
-                                    link: "/web/knowledge-base/create-knowledge-base-and-upload-documents/setting-indexing-methods.md"
+                                    link: "/web/knowledge-base/create-knowledge-and-upload-documents/setting-indexing-methods.md"
                                 },
                                 {
                                     text: "导入数据", items: [
