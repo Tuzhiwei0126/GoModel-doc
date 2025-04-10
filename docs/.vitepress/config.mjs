@@ -19,7 +19,7 @@ export default defineConfig({
                 {
                     text: "使用手册文档",
                     items: [
-                        {text: "欢迎使用 GoModel", link: "/web/get_started/welcome.md"},
+                        {text: "欢迎使用 GoAgent", link: "/web/get_started/welcome.md"},
                         {text: "聊天助手", link: "/web/chatbot/chatbot.md"},
                         {
                             text: "知识库", link: "/web/knowledge-base/README.md", items: [

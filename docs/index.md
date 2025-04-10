@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "GoModel-doc"
+  name: "GoAgent-doc"
   tagline: 文档中心
   actions:
     - theme: brand
