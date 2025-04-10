@@ -27,9 +27,7 @@ export default defineConfig({
                 { text: "文档提取器", link: "/web/workflow/node/docx_extractor.md" },
                 { text: "结束", link: "/web/workflow/node/end.md" },
                 { text: "条件分支", link: "/web/workflow/node/ifelse.md" },
-                { text: "循环", link: "/web/workflow/node/loop.md" },
                 { text: "开始", link: "/web/workflow/node/start.md" },
-                { text: "直接回复", link: "/web/workflow/node/answer.md" },
                 { text: "HTTP 请求", link: "/web/workflow/node/Http_request.md" },
                 { text: "迭代", link: "/web/workflow/node/iteration.md" },
                 { text: "知识检索", link: "/web/workflow/node/knowledge_retrieval.md" },
@@ -39,7 +37,6 @@ export default defineConfig({
                 { text: "问题分类器", link: "/web/workflow/node/question_classifier.md" },
                 { text: "模板转换", link: "/web/workflow/node/template.md" },
                 { text: "变量聚合", link: "/web/workflow/node/variable_aggregator.md" },
-                { text: "变量赋值", link: "/web/workflow/node/variable_assigner.md" }
               ],
             },
           ],
