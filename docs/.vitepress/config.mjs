@@ -11,7 +11,7 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "使用手册文档", link: "/web/index.md" },
+      { text: "使用手册文档", link: "/web/get_started/welcome.md" },
     ],
 
     sidebar:{
