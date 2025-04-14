@@ -22,7 +22,4 @@
 * **作为企业级 LLM 基础设施**，一些银行和大型互联网公司正在将 GoAgent 部署为企业内的 LLM 网关，加速 GenAI 技术在企业内的推广，并实现中心化的监管。
 * **探索 LLM 的能力边界**，即使你是一个技术爱好者，通过 GoAgent 也可以轻松的实践 Prompt 工程和 Agent 技术，在 GPTs 推出以前就已经有超过 60,000 开发者在 GoAgent 上创建了自己的第一个应用。
 
-### 下一步行动
 
-* 阅读[**快速开始**](../application-orchestrate/README.md)，速览 GoAgent 的应用构建流程
-* 在 [**GitHub**](https://github.com/[这里替换为GoAgent的GitHub仓库地址]) 上为我们点亮一颗星，并阅读我们的**贡献指南**

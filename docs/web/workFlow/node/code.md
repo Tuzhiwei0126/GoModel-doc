@@ -26,9 +26,8 @@
 ## 使用场景
 
 ### 数学计算示例
-```
-def calculate_variance(x: int) -> dict:
-    mean = sum(x)/len(x)
+```python
+def calculate_variance(num: int) -> dict:
     return {
         'result': num ** 2
     }
