@@ -1,6 +1,6 @@
 # 欢迎使用 GoAgent
 
-**GoAgent** 是一款开源的大语言模型(LLM) 应用开发平台。它融合了后端即服务（Backend as Service）和 [LLMOps](learn-more/extended-reading/what-is-llmops.md) 的理念，使开发者可以快速搭建生产级的生成式 AI 应用。即使你是非技术人员，也能参与到 AI 应用的定义和数据运营过程中。
+**GoAgent** 是一款开源的大语言模型(LLM) 应用开发平台。它融合了后端即服务（Backend as Service）和 LLMOps的理念，使开发者可以快速搭建生产级的生成式 AI 应用。即使你是非技术人员，也能参与到 AI 应用的定义和数据运营过程中。
 
 由于 GoAgent 内置了构建 LLM 应用所需的关键技术栈，包括对数百个模型的支持、直观的 Prompt 编排界面、高质量的 RAG 引擎、稳健的 Agent 框架、灵活的流程编排，并同时提供了一套易用的界面和 API。这为开发者节省了许多重复造轮子的时间，使其可以专注在创新和业务需求上。
 
@@ -22,7 +22,4 @@
 * **作为企业级 LLM 基础设施**，一些银行和大型互联网公司正在将 GoAgent 部署为企业内的 LLM 网关，加速 GenAI 技术在企业内的推广，并实现中心化的监管。
 * **探索 LLM 的能力边界**，即使你是一个技术爱好者，通过 GoAgent 也可以轻松的实践 Prompt 工程和 Agent 技术，在 GPTs 推出以前就已经有超过 60,000 开发者在 GoAgent 上创建了自己的第一个应用。
 
-### 下一步行动
 
-* 阅读[**快速开始**](../application-orchestrate/README.md)，速览 GoAgent 的应用构建流程
-* 在 [**GitHub**](https://github.com/[这里替换为GoAgent的GitHub仓库地址]) 上为我们点亮一颗星，并阅读我们的**贡献指南**

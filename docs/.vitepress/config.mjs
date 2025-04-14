@@ -41,10 +41,6 @@ export default defineConfig({
                                             text: "从文本导入",
                                             link: "web/knowledge-base/create-knowledge-and-upload-documents/import-content-data/sync-from-text.md"
                                         },
-                                        {
-                                            text: "从网站导入",
-                                            link: "web/knowledge-base/create-knowledge-and-upload-documents/import-content-data/sync-from-website.md"
-                                        },
                                     ]
                                 },
                             ]

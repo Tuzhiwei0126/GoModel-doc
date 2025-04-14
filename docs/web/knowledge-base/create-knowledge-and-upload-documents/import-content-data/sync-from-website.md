@@ -1,4 +1,4 @@
-# 1.2 从网页导入数据
+# 从网页导入数据
 
 GoAgent 知识库支持借助第三方工具，如 [Jina Reader](https://jina.ai/reader) 和 [Firecrawl](https://www.firecrawl.dev/)，抓取公开网页内容，解析为 Markdown 格式后导入知识库。
 
