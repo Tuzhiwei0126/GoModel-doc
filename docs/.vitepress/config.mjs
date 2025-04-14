@@ -11,7 +11,7 @@ export default defineConfig({
         },
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            {text: "使用手册文档", link: "/web/index.md"},
+            {text: "使用手册文档", link: "/web/get_started/welcome.md"},
         ],
 
         sidebar: {
@@ -19,27 +19,31 @@ export default defineConfig({
                 {
                     text: "使用手册文档",
                     items: [
-                        {text: "欢迎使用 GoModel", link: "/web/get_started/welcome.md"},
+                        {text: "欢迎使用 GoAgent", link: "/web/get_started/welcome.md"},
                         {text: "聊天助手", link: "/web/chatbot/chatbot.md"},
                         {
                             text: "知识库", link: "/web/knowledge-base/README.md", items: [
                                 {
                                     text: "创建知识库",
-                                    link: "/web/knowledge-base/create-knowledge-base-and-upload-documents/README.md"
+                                    link: "/web/knowledge-base/create-knowledge-and-upload-documents/README.md"
                                 },
                                 {
                                     text: "分块和清理",
-                                    link: "/web/knowledge-base/create-knowledge-base-and-upload-documents/chunking-and-cleaning-text.md"
+                                    link: "/web/knowledge-base/create-knowledge-and-upload-documents/chunking-and-cleaning-text.md"
                                 },
                                 {
                                     text: "设置索引",
-                                    link: "/web/knowledge-base/create-knowledge-base-and-upload-documents/setting-indexing-methods.md"
+                                    link: "/web/knowledge-base/create-knowledge-and-upload-documents/setting-indexing-methods.md"
                                 },
                                 {
                                     text: "导入数据", items: [
                                         {
                                             text: "从文本导入",
                                             link: "web/knowledge-base/create-knowledge-and-upload-documents/import-content-data/sync-from-text.md"
+                                        },
+                                        {
+                                            text: "从网站导入",
+                                            link: "web/knowledge-base/create-knowledge-and-upload-documents/import-content-data/sync-from-website.md"
                                         },
                                     ]
                                 },
