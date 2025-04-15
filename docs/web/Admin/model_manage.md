@@ -1,0 +1,30 @@
+# 模型管理
+
+## 入口
+
+管理员可以通过“模型管理”侧边栏进入模型管理页，此处添加的模型对系统内所有成员可用。
+
+![image-20250415172756330](/Users/nayuta/projects/GoModel-doc/docs/public/model_manage_1.png)
+
+## 添加模型
+
+### 模型
+
+点击“添加模型”按钮开启弹窗，资源类型选择“模型”后，选择想要添加的模型类型（现支持 LLM、Embedding 两种），再选择模型名称（支持的模型在 GoAgent 部署前商议决定）并填写 API Request URL，点击“保存”即可添加。
+
+![image-20250415172943934](/Users/nayuta/projects/GoModel-doc/docs/public/model_manage_2.png)
+
+### 模型供应商
+
+若需要三方服务，可以“资源类型”可以选择“模型供应商”（目前支持 DeepSeek 和 SiliconFlow），选择供应商、输入 API Key 后，点击“保存”即可。
+
+![image-20250415173751473](/Users/nayuta/projects/GoModel-doc/docs/public/model_manage_3.png)
+
+## 删除模型
+
+在“模型管理”列表页点击红色“删除”按钮并确认，即可删除指定的模型，模型删除后将不再全局可用。
+
+![image-20250415173858903](/Users/nayuta/projects/GoModel-doc/docs/public/model_manage_4.png)
+
+
+

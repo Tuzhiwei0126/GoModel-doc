@@ -6,3 +6,6 @@
 docs/.vitepress/cache
 docs/.vitepress/dist
 docs/.vitepress/temp
+
+# macOS
+.DS_Store/
