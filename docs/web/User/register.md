@@ -2,7 +2,7 @@
 
 ## 注册界面
 
-![用户注册](user_register.png)
+![用户注册](../../public/user_register.png)
 
 用户可以在该界面输入电子邮箱账号和密码，以及声明用户名称来注册到GoAgent平台。
 

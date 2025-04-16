@@ -20,6 +20,20 @@ export default defineConfig({
                     text: "使用手册文档",
                     items: [
                         {text: "欢迎使用 GoAgent", link: "/web/get_started/welcome.md"},
+                        {
+                            text: "用户登录注册", items: [
+                                {text: "用户登录", link: "/web/User/login.md"},
+                                {text: "用户注册", link: "/web/User/register.md"}
+                            ]
+                        },
+                        {
+                            text: "管理员操作", items: [
+                                {text: "登录", link: "/web/Admin/login.md"},
+                                {text: "授权", link: "/web/Admin/authorize.md"},
+                                {text: "模型管理", link: "/web/Admin/model_manage.md"},
+                                {text: "用户管理", link: "/web/Admin/user_manage.md"},
+                            ]
+                        },
                         {text: "聊天助手", link: "/web/chatbot/chatbot.md"},
                         {
                             text: "知识库", link: "/web/knowledge-base/README.md", items: [
